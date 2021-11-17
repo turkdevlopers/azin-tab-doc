@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## خوش آمدید به صفحه آموزش آذین تب
 
-You can use the [editor on GitHub](https://github.com/turkdevlopers/azin-tab-doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+در این صفحه تمام تنظیمات مربوط به افزونه آذین تب ذکر شده و با خواندن این صفحه می توانید از افزونه آذین تب هرچه بهتر استفاده کنید
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  برای استفاده از افزونه آذین تب ابتدا باید آن را از وب سایت [ژاکت](https://www.zhaket.com/) خریداری کرده و لاینسسی که در پنل ژاکت برای شما ارائه داده می شود برای فعال سازی افزونه آذین تب مورد نیاز است  .
 
-### Markdown
+### قدم اول
+ابتدا افزونه را در پنل وردپرس خود آپلود کرده و نصب کنید پس از نصب در زیر منو تنظیمات وردپرس روی فعال سازی آذین تب کلیک کنید و کد لاینسسی که از ژاکت دریافت کرده اید وارد کرده و دکمه تایید را بزنید .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### قدم دوم
+الان وقت آشنایی با تنظیمات این افزونه فرا رسیده 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**توجه : در صورت فعال نکردن لاینسس امکان استفاده از تنظیمات نمی باشد** 
 ```
+#### بخش فول اسکرین
+در تنظیمات مورد اول فعال سازی و غیر فعال سازی فول اسکرین در تمام صفحات می باشد که  می توانید با کلیک روی دکمه خاموش / روشن فول اسکرین را فعال یا غیر فعال کنید  .
+#### بخش رنگ مرورگر
+در این بخش هر رنگی را انتخاب کنید تب بالای مرورگر به رنگ انتخاب شده شما تبدیل می شود که نمونه آن در عکس زیر قابل مشاهده برای شما عزیزان است .
+#### بخش غیر فعال در عرض مشخص
+ در این بخش هر عددی را که وارد کنید فول اسکرین در عرض وارد شده غیر فعال خواهد شد  یا عبارت دیگر عرض هر صفحه نمایشی که با عدد وارد شده برابر باشد فول اسکرین غیر فعال خواهد شد .
+#### بخش اسکرول پایین
+در تنظیمات مورد اول فعال سازی و غیر فعال سازی اسکرول پایین در تمام صفحات می باشد که  می توانید با کلیک روی دکمه خاموش / روشن اسکرول پایین را فعال یا غیر فعال کنید  .
+#### بخش رنگ اسکرول پایین
+در این بخش هر رنگی را انتخاب کنید رنگ اسکرول پایین به رنگ انتخاب شده شما تبدیل می شود که نمونه آن در عکس زیر قابل مشاهده برای شما عزیزان است .
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/turkdevlopers/azin-tab-doc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+**توجه :شما می توانید با بردن ماوس روی علامت سوال؟ از راهنمایی هربخش که قابل مشاهده خواهد بود استفاده کنید .** 
+```
+```markdown
+**توجه : پس از  ویرایش تنظیمات  برای مشاهده تغییرات حتماً روی دکمه(ذخیره تغییرات) کلیک کنید .** 
+```
