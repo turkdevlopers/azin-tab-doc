@@ -1,7 +1,8 @@
 <style>
-    body {
-        background-color:blue;
-    }
+* {
+    direction: rtl;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 </style>
 ## خوش آمدید به صفحه آموزش آذین تب
 
