@@ -3,7 +3,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 section {
-diraction:rtl;
+    direction: rtl;
 }
 </style>
 ## خوش آمدید به صفحه آموزش آذین تب
